@@ -1,0 +1,23 @@
+{
+  "name": "oc-kit",
+  "version": "1.0.0",
+  "description": "Kitts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innachob/kit.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0",
+    "klen-tea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innachob/kit/issues"
+  },
+  "homepage": "https://github.com/innachob/kit#readme"
+}
